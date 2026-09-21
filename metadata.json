@@ -1,0 +1,6 @@
+{
+  "name": "Fake Call",
+  "description": "Realistic fake incoming call utility and prank app with background scheduling and screen wake.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
